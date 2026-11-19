@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Path of Champions</string>
+    <string name="stretch_screen_title">Stretch Break</string>
+    <string name="stretch_next_random">Next Stretch</string>
+    <string name="stretch_instructions_header">Step-by-Step Instructions</string>
+    <string name="stretch_back_cd">Back to Hub</string>
+</resources>
